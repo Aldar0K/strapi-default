@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "start": {
+      "memory": 1024,
+      "includeFiles": ".tmp"
+    }
+  }
+}
